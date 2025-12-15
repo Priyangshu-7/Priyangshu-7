@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I enjoy exploring how software systems work under the hood — from C/C++ fundamentals to modern frameworks.  <br>📈 Currently building a strong foundation in data science, analytics, and problem-solving.  <br><br>🌱 Currently learning:<br>- Python for data analysis & scripting<br>- Advanced C programming concepts<br>- Data structures & algorithms<br>- Basics of AI/ML and quantitative analysis<br><br>🎯 Goals:<br>- Build real-world, impact-driven projects  <br>- Become highly proficient in data science & AI  <br>- Contribute to open-source  <br>- Grow as a disciplined and thoughtful engineer<br><br><br>⚡ Fun fact: I enjoy debugging more than writing fresh code.</p>
+<p align="left">I enjoy exploring how software systems work under the hood — from C/C++ fundamentals to modern frameworks.  <br>📈 Currently building a strong foundation in data science, analytics, and problem-solving.  <br><br>🌱 Currently learning:<br>- Python for data analysis & scripting<br>- Advanced C programming concepts<br>- Data structures & algorithms<br>- Basics of AI/ML and quantitative analysis<br><br>🎯 Goals:<br>- Build real-world, impact-driven projects  <br>- Become highly proficient in data science & AI  <br>- Contribute to open-source  <br>- Grow as a disciplined and thoughtful engineer<br><br>⚡ Fun fact: I enjoy debugging more than writing fresh code.</p>
 
 ###
 
@@ -82,7 +82,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
