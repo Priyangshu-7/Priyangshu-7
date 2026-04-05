@@ -1,8 +1,8 @@
-<h1 align="center">Howdy 👋🏼. I'm Priyangshu</h1>
+<h1 align="center">Hello hello👋🏼, Priyangshu this side...</h1>
 
 ###
 
-<p align="left">IT Undergrad | Learning C, C++, Python, HTML, CSS, Tailwind, JavaScript & React | Exploring Data Science, AI & Quantitative Analytics</p>
+<p align="left">IT undergrad at UIT Burdwan · building toward industry-readiness</p>
 
 ###
 
@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">I enjoy exploring how software systems work under the hood — from C/C++ fundamentals to modern frameworks.  <br>📈 Currently building a strong foundation in data science, analytics, and problem-solving.  <br><br>🌱 Currently learning:<br>- Python for data analysis & scripting<br>- Advanced C programming concepts<br>- Data structures & algorithms<br>- Basics of AI/ML and quantitative analysis<br><br>🎯 Goals:<br>- Build real-world, impact-driven projects  <br>- Become highly proficient in data science & AI  <br>- Contribute to open-source  <br>- Grow as a disciplined and thoughtful engineer<br><br>⚡ Fun fact: I enjoy debugging more than writing fresh code.</p>
+<p align="left">
+I like understanding how things work — not just making them work. Debugging something until it finally makes sense is genuinely satisfying to me. I use AI tools to move faster, but I try not to let that become a crutch.<br><br>
+Currently working on getting comfortable across the full stack — frontend, backend, systems, and a bit of Web3. Still a student. Very much figuring it out.<br><br>
+<b>What I'm working on</b><br>
+- <b>Frontend</b> — CSS, JavaScript, TypeScript. Experimenting with physics engines and map integrations.<br>
+- <b>Backend</b> — learning how to design and build APIs properly.<br>
+- <b>DSA</b> — practicing in C++. Slowly. Consistently.<br>
+- <b>Web3</b> — exploring Solana development, picking up Rust alongside the JS ecosystem used in that space.<br>
+- <b>Data science & AI/ML</b> — interested in the quantitative side of things. Still early here.<br><br>
+⚡ Fun fact: I find more satisfaction in debugging existing systems than in writing code from scratch.
+</p>
 
 ###
 
@@ -58,27 +68,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
