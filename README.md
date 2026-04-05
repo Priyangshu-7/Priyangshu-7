@@ -86,10 +86,9 @@ Currently working on getting comfortable across the full stack — frontend, bac
 <p align="left">
   <a href="https://www.linkedin.com/in/priyangshuroy7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:officialpriyangshu.7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&to=officialpriyangshu.7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 </p>
 </div>
 
