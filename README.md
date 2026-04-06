@@ -63,7 +63,7 @@ Currently working on getting comfortable across the full stack — frontend, bac
 
 ###
 
-<h2 align="left">👾 What I am interested in learning at some point</h2>
+<h2 align="left">👾 What I am going to learn in the near future</h2>
 
 ###
 
