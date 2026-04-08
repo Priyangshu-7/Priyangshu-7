@@ -1,4 +1,4 @@
-<h1 align="center">Hello hello👋🏼, Priyangshu this side...</h1>
+<h1 align="center">Hello hello, Priyangshu this side...</h1>
 
 ###
 
