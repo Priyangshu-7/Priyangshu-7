@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">IT undergrad at UIT Burdwan · Building toward industry-readiness</p>
+<p align="left">Building toward industry-readiness</p>
 
 ###
 
