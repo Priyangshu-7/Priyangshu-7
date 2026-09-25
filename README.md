@@ -95,5 +95,9 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
+  <img
+  width="100%"
+  height="55"
+  src="https://capsule-render.vercel.app/api?type=waving&height=55&section=header&reversal=false&color=000000&animation=fadeIn"
+/>
 </div>
