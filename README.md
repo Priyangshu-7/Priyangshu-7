@@ -94,13 +94,3 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 
 ###
 
-
-
-
-<img
-  width="100%"
-  height="70"
-  src="https://capsule-render.vercel.app/api?type=rect&height=70&section=header&text=&fontSize=1&animation=fadeIn&color=0d1117"
-/>
-
-
