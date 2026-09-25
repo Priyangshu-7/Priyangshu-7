@@ -97,6 +97,10 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 
 <div align="center">
 
-<hr style="border: 0; border-top: 4px solid #000; margin: 0;">
+<img
+  width="100%"
+  height="70"
+  src="https://capsule-render.vercel.app/api?type=rect&height=70&section=header&text=&fontSize=1&animation=fadeIn&color=0d1117"
+/>
 
 </div>
