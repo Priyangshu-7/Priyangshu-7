@@ -97,14 +97,6 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 
 <div align="center">
 
-<table>
-<tr>
-<td style="background:#000000; padding:12px 24px;">
-
-<b><font color="#FFFFFF">PR • ENGINEERING • SYSTEMS</font></b>
-
-</td>
-</tr>
-</table>
+<hr style="border: 0; border-top: 4px solid #000; margin: 0;">
 
 </div>
