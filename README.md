@@ -92,5 +92,4 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 </p>
 </div>
 
-###
 
