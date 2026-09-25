@@ -94,10 +94,17 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 
 ###
 
-<div>
-  <img
-  width="100%"
-  height="55"
-  src="https://capsule-render.vercel.app/api?type=waving&height=55&section=header&reversal=false&color=000000&animation=fadeIn"
-/>
+
+<div align="center">
+
+<table>
+<tr>
+<td style="background:#000000; padding:12px 24px;">
+
+<b><font color="#FFFFFF">PR • ENGINEERING • SYSTEMS</font></b>
+
+</td>
+</tr>
+</table>
+
 </div>
