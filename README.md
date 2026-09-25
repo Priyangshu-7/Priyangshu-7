@@ -94,7 +94,9 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 
 <div align="center">
 
-waves by Paul from <a href="https://thenounproject.com/browse/icons/term/waves/" target="_blank" title="waves Icons">Noun Project</a> (CC BY 3.0)
+
+<hr style="border: 0; border-top: 4px solid #000; margin: 0;">
+
 
 </div>
 
