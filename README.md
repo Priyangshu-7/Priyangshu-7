@@ -92,4 +92,10 @@ Right now I'm getting comfortable across the full stack — frontend, backend, s
 </p>
 </div>
 
+<div align="center">
+
+waves by Paul from <a href="https://thenounproject.com/browse/icons/term/waves/" target="_blank" title="waves Icons">Noun Project</a> (CC BY 3.0)
+
+</div>
+
 
