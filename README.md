@@ -11,16 +11,15 @@
 ###
 
 <p align="left">
-I like understanding how things work, not just making them work. Debugging something until it finally clicks is genuinely satisfying — more satisfying, honestly, than writing it from scratch.<br><br>
-I use AI tools to move faster, but I try not to let that turn into a crutch.<br><br>
-Right now I'm getting comfortable across the full stack, plus a bit of Web3 on the side. Still a student, still figuring most of it out.<br><br>
+I like understanding how things work, not just making them work. Debugging something until it finally clicks is genuinely satisfying — more than writing it from scratch, honestly. I use AI tools to move faster, but I try not to let that turn into a crutch.
+
+Right now I'm getting comfortable across the full stack — frontend, backend, systems, and a bit of Web3. Still a student, still figuring most of it out.<br><br>
 <b>What I'm working on</b><br>
 - <b>Frontend</b> — CSS, JavaScript, TypeScript. Messing around with physics engines and map integrations.<br>
 - <b>Backend</b> — learning to design and build APIs properly.<br>
 - <b>DSA</b> — practicing in C++, slowly but consistently.<br>
 - <b>Web3</b> — exploring Solana development, picking up Rust alongside the JS ecosystem that surrounds it.<br>
 - <b>Data science & AI/ML</b> — curious about the quantitative side. Still early here.<br><br>
-⚡ Fun fact: I get more out of debugging an existing system than writing new code.
 </p>
 
 ###
